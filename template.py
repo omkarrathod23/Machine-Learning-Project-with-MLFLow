@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s')
 
-project_name = "my_project"  # Replace with your actual project name
+project_name = "myml_project"  # Replace with your actual project name
 
 list_of_files = [
     ".github/workflows/.gitkeep",
